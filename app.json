@@ -1,7 +1,7 @@
 {
-	"name": "Ultraviolet App",
-	"description": "Node.js Ultraviolet instance",
-	"repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-	"logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+	"name": "MohanishX VPN",
+	"description": "MohanishX VPN instance",
+	"repository": "https://mohanish.in",
+	"logo": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxphsFz7nmm7GM9GV2uzzN68Me9jtlm3KePmVJyUZTIw5GpWaCthE7ZD9et7RyYnDZdEgybCGxXv0gShoSvaj6.k-&format=source",
 	"keywords": ["tomp", "ultraviolet"]
 }
